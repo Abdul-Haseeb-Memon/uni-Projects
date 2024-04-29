@@ -1,0 +1,6 @@
+----------Modules-------------
+
+tkinter module
+pymysql module
+pip install cryptography
+pip install Pillow
